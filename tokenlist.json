@@ -1,16 +1,15 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
+    "address": "THiSwGN4S9MFodhUMaqTjhnhc95rLdEKFi",
+    "symbol": "STRATEGY",
+    "name": "Tron Strategy",
     "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
+    "logoURI": "https://cdn.sunpump.meme/public/logo/1724542093_TDuVWN_JEh4ct8wZ4bX.png",
+    "homepage": "https://tronstrategy.io/",
     "existingMarkets": [
         {
-            "source": "ApeNFT",
+            "source": "SunPump",
             "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
+                "STRATEGY/TRX",
             ]
         }
   ]
